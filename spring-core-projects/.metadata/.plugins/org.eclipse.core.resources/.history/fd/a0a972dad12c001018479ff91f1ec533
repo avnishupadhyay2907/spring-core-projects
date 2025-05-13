@@ -1,0 +1,5 @@
+package com.rays.singelton;
+
+public class UserService {
+
+}

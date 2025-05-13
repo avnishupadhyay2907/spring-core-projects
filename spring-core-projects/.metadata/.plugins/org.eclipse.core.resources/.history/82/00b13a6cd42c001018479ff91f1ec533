@@ -1,0 +1,11 @@
+package com.rays.prototype;
+
+public class UserService {
+
+	public UserService() {
+
+		System.out.println("prototype user service counstructor created");
+
+	}
+
+}

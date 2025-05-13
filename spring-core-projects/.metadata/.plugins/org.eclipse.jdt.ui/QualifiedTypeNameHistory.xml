@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.xml.XmlBeanFactory"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="com.rays.test.Person"/>
+    <fullyQualifiedTypeName name="com.rays.ioc.Order1"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Value"/>
+    <fullyQualifiedTypeName name="com.rays.ioc.Payment"/>
+    <fullyQualifiedTypeName name="com.rays.ioc.Inventory"/>
+    <fullyQualifiedTypeName name="com.rays.ioc.Order2"/>
+    <fullyQualifiedTypeName name="com.rays.autowire.notype.UserDAOInt"/>
+    <fullyQualifiedTypeName name="com.rays.autowire.notype.UserService"/>
+    <fullyQualifiedTypeName name="com.rays.autowire.bytype.UserDAOInt"/>
+    <fullyQualifiedTypeName name="java.awt.desktop.UserSessionListener"/>
+    <fullyQualifiedTypeName name="com.rays.autowire.bycounstructor.UserDAOInt"/>
+    <fullyQualifiedTypeName name="com.rays.autowire.byconstructor.UserService"/>
+    <fullyQualifiedTypeName name="com.rays.singelton.UserService"/>
+    <fullyQualifiedTypeName name="com.rays.exclude.UserService"/>
+    <fullyQualifiedTypeName name="com.rays.prototype.UserService"/>
+    <fullyQualifiedTypeName name="com.rays.lifecycle.MyBean"/>
+    <fullyQualifiedTypeName name="com.rays.test.User"/>
+    <fullyQualifiedTypeName name="com.rays.config.UserService"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Configuration"/>
+    <fullyQualifiedTypeName name="com.rays.exclude.UserDAOHibImpl"/>
+    <fullyQualifiedTypeName name="com.rays.child.Person"/>
+    <fullyQualifiedTypeName name="com.rays.child.Employee"/>
+    <fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
+    <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
+    <fullyQualifiedTypeName name="com.rays.dao.UserDAOInt"/>
+    <fullyQualifiedTypeName name="javax.sql.DataSource"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Repository"/>
+    <fullyQualifiedTypeName name="org.springframework.dao.EmptyResultDataAccessException"/>
+    <fullyQualifiedTypeName name="com.rays.service.UserServiceInt"/>
+    <fullyQualifiedTypeName name="javax.transaction.Transactional"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="org.springframework.transaction.annotation.Transactional"/>
+    <fullyQualifiedTypeName name="java.util.Iterator"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+</qualifiedTypeNameHistroy>

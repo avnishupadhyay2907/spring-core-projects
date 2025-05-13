@@ -1,0 +1,13 @@
+package com.rays.autowire.bycounstructor;
+
+public class UserService {
+
+	UserDAOInt userDao;
+
+	public UserService(UserDAOInt userDao) {
+
+		this.userDao = userDao;
+
+	}
+
+}

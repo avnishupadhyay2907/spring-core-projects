@@ -1,0 +1,11 @@
+package com.rays.singelton;
+
+public class UserService {
+
+	public UserService() {
+		
+		System.out.println("Singleton UserService counstructor Created");
+		
+	}
+	
+}

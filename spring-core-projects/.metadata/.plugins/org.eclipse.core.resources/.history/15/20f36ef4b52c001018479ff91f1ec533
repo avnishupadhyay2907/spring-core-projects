@@ -1,0 +1,12 @@
+package com.rays.exclude;
+
+public class TestExclude {
+	public static void main(String[] args) {
+
+		ApplicationContext context = new ClassPathXmlApplicationContext("exclude.xml");
+
+		UserService userService = context.getBean(UserService.class);
+
+		userService.testAdd();
+	}
+}

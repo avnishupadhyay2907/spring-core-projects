@@ -1,0 +1,11 @@
+package com.rays.config;
+
+public class AppConfig {
+
+	public UserService userService() {
+
+		return new UserService();
+
+	}
+
+}

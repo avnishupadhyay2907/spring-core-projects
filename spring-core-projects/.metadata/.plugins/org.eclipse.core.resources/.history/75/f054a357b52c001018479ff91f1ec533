@@ -1,0 +1,9 @@
+package com.rays.primary;
+
+public class UserDAOJDBCImplimplements UserDAOInt
+{
+
+	public void add() {
+		System.out.println("UserDAOJDBCImpl add method..!!!");
+	}
+}

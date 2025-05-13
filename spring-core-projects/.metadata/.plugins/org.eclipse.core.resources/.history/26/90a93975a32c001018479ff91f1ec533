@@ -1,0 +1,15 @@
+package com.rays.autowire.bycounstructor;
+
+import org.springframework.context.ApplicationContext;
+
+public class TestAutowireByCounstructor {
+
+	public static void main(String[] args) {
+		
+		ApplicationContext context = new ClassPathXmlApplicationContext("autowire-by-constructor.xml");
+
+		UserService userService = (UserService) context.getBean("userService");
+		
+	}
+	
+}

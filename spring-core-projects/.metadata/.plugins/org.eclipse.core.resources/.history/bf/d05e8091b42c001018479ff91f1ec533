@@ -1,0 +1,16 @@
+package com.rays.autowire.byconstructor;
+
+import com.rays.autowire.bycounstructor.UserDAOInt;
+
+public class UserService {
+
+	private UserDAOInt userDao;
+
+	public UserService(UserDAOInt userDao) {
+		this.userDao = userDao;
+	}
+
+	public void testAdd() {
+		userDao.add();
+	}
+}
