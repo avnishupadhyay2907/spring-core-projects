@@ -1,0 +1,17 @@
+package com.rays.config;
+
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+
+public class TestAddConfig {
+
+	public static void main(String[] args) {
+
+		ApplicationContext context = new ClassPathXmlApplicationContext("config.xml");
+
+		UserService user = (UserService) context.getBean("userService");
+
+		user.add();
+	}
+
+}
